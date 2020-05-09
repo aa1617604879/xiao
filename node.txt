@@ -1,3 +1,9 @@
+#dc
+ss://YWVzLTEyOC1nY206VlhQaXBpMjlueE1P@47.106.230.197:152?plugin=obfs-local;obfs=tls;obfs-host=4de1147841.wns.windows.com;obfs-uri=/#%E5%B0%8F%E5%8F%B7%E4%BD%BF%E7%94%A8dc%E6%97%A5%E6%9C%ACIPLC
+
+#dc
+ss://YWVzLTEyOC1nY206VlhQaXBpMjlueE1P@47.106.59.183:152?plugin=obfs-local;obfs=tls;obfs-host=4de1147841.wns.windows.com;obfs-uri=/#%E5%B0%8F%E5%8F%B7%E4%BD%BF%E7%94%A8dc%E6%96%B0%E5%8A%A0%E5%9D%A1IPLC%2002
+
 #拓普
 vmess://eyJhZGQiOiJ1czIwMy5zdWJrbDAxLnRvcCIsImFpZCI6IjIiLCJob3N0IjoidXMyMDMuc3Via2wwMS50b3AiLCJpZCI6IjY5YjQwMDFmLWFhNGYtMzc4Ni1iNmViLWZhODU1MDhkYWY5NyIsIm5ldCI6IndzIiwicGF0aCI6Ii9hZG1pbiIsInBvcnQiOiI4MCIsInBzIjoi5bCP5Y+35L2/55SodHDnvo7lm70wMyIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
