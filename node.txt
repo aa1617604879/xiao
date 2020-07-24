@@ -1,3 +1,9 @@
+#阿里云10
+trojan://zdKTUdrXDFYehsLA@www.xinxinaa.icu:443?allowInsecure=1#%E5%B0%8F%E5%8F%B7%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF10
+
+#阿里云210
+trojan://53S0NB2wWwVSfud4@www.hzy78.icu:443?allowInsecure=1#%E5%B0%8F%E5%8F%B7%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF210
+
 #阿里云84
 trojan://cRSKkBsbT2Cn3XLH@www.hzy3.top:443?allowInsecure=1#%E5%B0%8F%E5%8F%B7%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF84
 
@@ -5,10 +11,10 @@ trojan://cRSKkBsbT2Cn3XLH@www.hzy3.top:443?allowInsecure=1#%E5%B0%8F%E5%8F%B7%E7
 trojan://cB5c0fIgtzkYtjsC@www.hzy7.top:443?allowInsecure=1#%E5%B0%8F%E5%8F%B7%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF245
 
 #阿里云6
-trojan://jPHczd9PeP2ie7Bc@www.zx02.top:443?allowInsecure=1#%E5%B0%8F%E5%8F%B7%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF6
+trojan://jPHczd9PeP2ie7Bc@www.zx02.top:443?allowInsecure=1#%E5%B0%8F%E5%8F%B7%E7%BA%BF%E8%B7%AF%E6%96%B0%E5%8A%A0%E5%9D%A16
 
 #阿里云234
-trojan://OXoPgfajAk3dZEz8@www.zx01.xyz:443?allowInsecure=1#%E5%B0%8F%E5%8F%B7%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF234
+trojan://OXoPgfajAk3dZEz8@www.zx01.xyz:443?allowInsecure=1#%E5%B0%8F%E5%8F%B7%E7%BA%BF%E8%B7%AF%E6%96%B0%E5%8A%A0%E5%9D%A1234
 
 #阿里云122
 trojan://sxcV7d2n1DVVGn8U@www.zx07.top:443?allowInsecure=1#%E5%B0%8F%E5%8F%B7%E7%BA%BF%E8%B7%AF%E7%BE%8E%E5%9B%BD122
