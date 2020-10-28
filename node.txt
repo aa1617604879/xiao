@@ -1,6 +1,5 @@
-trojan://LbLb2ban2XWVF9hK@www.zhanan10.top:443#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF%E9%87%8E99
-trojan://p8Cc5SjuPXJi3nrJ@www.zhanan11.site:443#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF%E9%AD%9439
-trojan://E6mJ8AcPQmskY1kL@www.zx13.men:443#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF126
+vmess://eyJhZGQiOiJ3d3cuaHp5NS53aW4iLCJhaWQiOiIwIiwiaG9zdCI6Ind3dy5oenk1LndpbiIsImlkIjoiYzY4YTRmYTEtM2Y1Yy00NmEyLTkyOTItZjIwYmQ0NTI4NzNiIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6InYycummmea4rzIxMyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJ3d3cuaHp5NzguaWN1IiwiYWlkIjoiMCIsImhvc3QiOiJ3d3cuaHp5NzguaWN1IiwiaWQiOiI5MTU2ZTM0MS04OGU4LTRlMzQtODg4Ny1iMzZiOTZlNThmNDMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoidjJy6aaZ5rivMjA4IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
 #阿里云51
 trojan://Bghf8CaTkRC3Oa75@www.huang4545.space:443#%E5%B0%8F%E5%8F%B7%E7%BA%BF%E8%B7%AF51
@@ -14,12 +13,11 @@ trojan://cRSKkBsbT2Cn3XLH@www.hzy3.top:443?allowInsecure=1#%E5%B0%8F%E5%8F%B7%E7
 trojan://cB5c0fIgtzkYtjsC@www.hzy7.top:443?allowInsecure=1#%E5%B0%8F%E5%8F%B7%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF245
 
 
-#羊圈
-trojan://a42d6699-aefc-3a02-9a74-e67b9bff1154mielink@l2-us-d.cn0.me:443?peer=paydiu.com#yq%E7%9B%B4%E8%BF%9E%EF%BD%9C%E7%BE%8E%E5%9B%BD
-#羊圈
-ssr://aXBsYy15dS5jbjAubWU6NjY3OmF1dGhfYWVzMTI4X21kNTpyYzQtbWQ1Omh0dHBfc2ltcGxlOmJXbGxhblZ0Y0M1amIyMC8_cmVtYXJrcz1lWEhvc2F2bGo3QnBjR3hqJnByb3RvcGFyYW09TkRNd09URTZZVFF5WkRZMk9Ua3RZV1ZtWXkwellUQXlMVGxoTnpRdFpUWTNZamxpWm1ZeE1UVTAmb2Jmc3BhcmFtPVlXcGhlQzV0YVdOeWIzTnZablF1WTI5dA
-#小财
-vmess://YXV0bzo5NTRiMzQzZS0yOTVmLTMzYWUtOGQwMi0yYWMxMmZkYmUyNGFAYWdhMi5kb2dkbnMueHl6OjQ0MDQ0?remarks=xc%E9%A6%99%E6%B8%AF%2306&obfsParam=aga2.dogdns.xyz&path=/img&obfs=websocket
+#闪电
+vmess://eyJhZGQiOiJjbjItcGJneGttZnVtMm54NXV0aHJuc284MWcxLmd1aWRlY25zLmNvbSIsImFpZCI6IjEiLCJob3N0Ijoid3d3LmJpbmcuY29tIiwiaWQiOiJjY2MzOTgyZS1kMDBkLTM3ZWUtYWIzMC1jOTU3YzZiM2RiNGUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdjJyYXkiLCJwb3J0IjoiMTAwMjkiLCJwcyI6IuaWsOWKoOWdoSAwMSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJobnlkLTAxLmZyZWVwYm94LnRrIiwiYWlkIjoiMSIsImhvc3QiOiJ3d3cuYmluZy5jb20iLCJpZCI6ImNjYzM5ODJlLWQwMGQtMzdlZS1hYjMwLWM5NTdjNmIzZGI0ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii92MnJheSIsInBvcnQiOiIyMDAwOSIsInBzIjoi5Y+w5rm+IDAyICIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJobi15ZDAwMS5mcmVleHl6LmNmIiwiYWlkIjoiMSIsImhvc3QiOiJ3d3cuYmluZy5jb20iLCJpZCI6ImNjYzM5ODJlLWQwMGQtMzdlZS1hYjMwLWM5NTdjNmIzZGI0ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii92MnJheSIsInBvcnQiOiIyMDAxMCIsInBzIjoi5Y+w5rm+IDAzIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
 
 
 
