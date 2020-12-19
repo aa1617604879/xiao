@@ -1,3 +1,7 @@
+#腾讯40
+trojan://5iKwJeZQLjIfRyI3@www.zx11.bid:443#%E9%A6%99%E6%B8%AF40
+#腾讯166
+trojan://sXS3Pig5g9Og2cb0@www.zx11.loan:443#%E9%A6%99%E6%B8%AF166
 
 #阿里162
 trojan://tqPC0wcwEiFqVAei@www.hzy04.icu:443#%E5%B0%8F%E5%8F%B7%E7%BA%BF%E8%B7%AF162
@@ -6,11 +10,6 @@ trojan://cRSKkBsbT2Cn3XLH@www.hzy3.top:443?allowInsecure=1#%E5%B0%8F%E5%8F%B7%E7
 
 #腾讯177
 trojan://1MgqymhGvMMm38Ns@www.zx08.party:443#%E5%B0%8F%E5%8F%B7%E7%BA%BF%E8%B7%AF177
-#腾讯79
-trojan://1fcuaeal25OkP1RP@www.zx03.bid:443#%E5%B0%8F%E5%8F%B7%E7%BA%BF%E8%B7%AF79
-#腾讯186
-trojan://lJrLP2LkiGH73MTv@www.zx10.top:443#%E5%B0%8F%E5%8F%B7%E7%BA%BF%E8%B7%AF186
-
 
 #阿里51
 trojan://Bghf8CaTkRC3Oa75@www.huang4545.space:443#%E5%B0%8F%E5%8F%B7%E7%BA%BF%E8%B7%AF51
