@@ -1,3 +1,4 @@
 #3腾讯
-ssr:
+ssr://NDMuMTI4LjY2LjY1OjQ0ODM0OmF1dGhfY2hhaW5fYTpub25lOnRsczEuMl90aWNrZXRfYXV0aDpNak0wTkE
+
 
