@@ -1,3 +1,13 @@
+#a44
+trojan://ww554467@www.zx522.work:37745#a%E9%A6%99%E6%B8%AF44
+#a151
+trojan://ww88555772@www.zx522.space:18843#a%E9%A6%99%E6%B8%AF151
+#a186
+trojan://ff8855669@www.zx522.top:27739#a%E9%A6%99%E6%B8%AF3186
+#a43
+trojan://ww7788669@www.zx15.club:24456#a%E9%A6%99%E6%B8%AF43
+#a8
+trojan://cc4477589@www.zx14.club:11874#a%E9%A6%99%E6%B8%AF8
 #3腾讯23
 trojan://rr884478@www.zzzzzz2.top:29948#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF23
 #3腾讯28
@@ -19,14 +29,6 @@ trojan://cc446656@www.zzzzzz2.xyz:19383#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF145
 trojan://ff2244334@www.zzzzzz2.site:13884#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF228
 trojan://ww909088@www.zx5.club:37794#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF192
 trojan://bb337746@www.zx523.club:28839#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF180
-
-ssr://NDMuMTU0LjEwNS4yMTo0OTY3NjphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6T0RNMk5EYzFOUS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPTZhYVo1cml2NTdxXzZMZXZNakV0TVEmZ3JvdXA9
-ssr://NDMuMTU0LjEwNS4yMTo1Mzc1NTphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6TnpRMU5qVTMvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz02YWFaNXJpdjU3cV82TGV2TWpFdE1nJmdyb3VwPQ
-
-vmess://YXV0bzpmZGE0OWVmNS00NmJhLTQwODMtODgzNy0xNjZhYjczMGQxZjJAYzc5czUuamFtamFtcy5uZXQ6NTIxMTM?remarks=JM95&path=/&obfs=none&alterId=8
-vmess://YXV0bzpmZGE0OWVmNS00NmJhLTQwODMtODgzNy0xNjZhYjczMGQxZjJAYzc5czQuamFtamFtcy5uZXQ6NTIxMTM?remarks=JM200&path=/&obfs=none&alterId=8
-vmess://YXV0bzpmZGE0OWVmNS00NmJhLTQwODMtODgzNy0xNjZhYjczMGQxZjJAYzc5czMuamFtamFtcy5uZXQ6NTIxMTM?remarks=JM96&path=/&obfs=none&alterId=8
-
 
 #1腾，美
 trojan://hh994776@www.zzzzzz1.asia:18836#%E7%BE%8E%E5%9B%BD%E7%BA%BF%E8%B7%AF227
