@@ -23,13 +23,6 @@ vmess://YXV0bzphMzc5YmQ3Zi05ZDBkLTRmYjUtOTBjMi05YjMwMjc4MmM0ZDZANDMuMTU0Ljc3LjE5
 
 #3腾讯232
 trojan://ee55667@www.zzz01.ink:26639#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF232
-#3腾讯187
-trojan://vv1144555@www.zx19.club:29455#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF187
-
-vmess://YXV0bzo1NTcxMWJmOC00Nzg1LTRlODYtOWY1ZS0yZmE2NDQ2NmMyMzNANDMuMTMyLjEwOS4xNDoyNDg4Ng?remarks=2%E9%A6%99%E6%B8%AF14&obfsParam=www.baidu.com&obfs=http&alterId=0
-vmess://YXV0bzozNzQ5ZGUzNC1hMWE5LTQ0ZGItYjcyYS01MTA3MTJhNTJkMTFANDMuMTM1LjcwLjE5MjoyNDc0MA?remarks=2%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF192&obfsParam=www.baidu.com&obfs=http&alterId=0
-vmess://YXV0bzpkMDBmNWVhOS00NjU4LTRmMGEtYTZjMy1lMjllZjcxMWNmM2JANDMuMTI5LjIyNy42MDoyNzcyNw?remarks=2%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF60&obfsParam=www.baidu.com&obfs=http&alterId=0
-
 
 
 
