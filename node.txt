@@ -1,32 +1,17 @@
+#baidu
+vmess://YXV0bzpmOGNkNjI5Zi00ZGE5LTRkYjAtODllNC1iZmQ3MmMyNzBlM2FAMTU0Ljg1LjYyLjEyMDoyMzkxMQ?remarks=%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF120&obfsParam=www.baidu.com&obfs=http&alterId=0
+vmess://YXV0bzowNTVmYTQwNS1mMTUwLTQ0ZTAtOTRiNy00ODg0N2YzMzUwZDJAMTU0Ljg1LjQxLjM6NjIzMjk?remarks=%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF3&obfsParam=www.baidu.com&obfs=http&alterId=0
+vmess://YXV0bzpiYzZkMjA0Yy1jNzc4LTQ0ZGQtYWE5Yi01NDBjYzY0YTljMWJAMTU2LjI0MC4xMTIuMjE5OjMwNjU3?remarks=%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF219&obfsParam=www.baidu.com&obfs=http&alterId=0
+vmess://YXV0bzoyNTM5MWE4Zi00YTJhLTQzZDYtODJmYy1lM2Q2ZTZmMTBkMDFAMTU0Ljg1LjU1LjE1MjoyMzE2OA?remarks=%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF152&obfsParam=www.baidu.com&obfs=http&alterId=0
+vmess://YXV0bzpjOWJlMGYzNy0wOTcyLTQ1MWEtOTgwMi05MjVjNDA0ZmIzY2ZAMTU2LjI0MC4xMjIuMTQ4OjQyOTk4?remarks=%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF148&obfsParam=www.baidu.com&obfs=http&alterId=0
 
-#TYMG
-ssr://MTU2LjI0MS4xMzguOTU6NDk4NjA6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOk1qTTNORE0wTmcvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz1kT2UtanVXYnZlZTZ2LWkzcnprMSZncm91cD0
-ssr://MTU2LjI0MS4xMzguMTMxOjU2NjcwOmF1dGhfY2hhaW5fYTpub25lOnRsczEuMl90aWNrZXRfYXV0aDpNak0wTWpNMU5EVTIvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz1kT2UtanVXYnZlZTZ2LWkzcnpFek1RJmdyb3VwPQ
-
-vmess://YXV0bzo2ZDg3MzRjZS1mZDJjLTRhNDMtOGY1MC05N2ZhY2FhY2RkN2FAMTk0LjM2LjE3MC4xNDM6Mzk0Mzk?remarks=t%E7%BE%8E%E5%9B%BD%E7%BA%BF%E8%B7%AF143&obfsParam=www.baidu.com&obfs=http&alterId=0
-
-vmess://YXV0bzo5OTE1ZTBmNi1jMGNhLTQ1YWItYmIxNi0zMjIyZmY2MTM2NzdAMTk0LjM2LjE3MC4xMzQ6MzE0NTM?remarks=t%E7%BE%8E%E5%9B%BD%E7%BA%BF%E8%B7%AF134&obfsParam=www.baidu.com&obfs=http&alterId=0
-
-vmess://YXV0bzpmNTk1MjlkZS01ZGU0LTRjNzUtODI2ZS01Zjc1NjJjYjZkNDNAMTU2LjI0MS4xMzguMTE6NjE4MDA?remarks=t%E7%BE%8E%E5%9B%BD%E7%BA%BF%E8%B7%AF11&obfsParam=www.baidu.com&obfs=http&alterId=0
-
-
-#咖啡FG
-ssr://MzcuNTkuMTc3Ljg5OjUyNjI3OmF1dGhfY2hhaW5fYTpub25lOnRsczEuMl90aWNrZXRfYXV0aDpPRGN5TXpRLz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9NXJPVjVadTk1N3FfNkxldk9EayZncm91cD0
-ssr://MTY0LjEzMi4xNTcuNDM6NDk1MjM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOk16UTFORFUyTXcvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz01ck9WNVp1OTU3cV82TGV2TkRNJmdyb3VwPQ
-ssr://OTEuMTM0LjE1OS4xMTY6NDcxMTQ6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOk5EazROVFkvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz01ck9WNVp1OTU3cV82TGV2TVRFMiZncm91cD0
-ssr://OTEuMTM0LjE1OS4xMTQ6NDk5OTA6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOk9ESTNNelEvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz01ck9WNVp1OTU3cV82TGV2TVRFMCZncm91cD0
-ssr://OTEuMTM0LjE1OS4xMTI6NTM2ODg6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOk16UTFNelExTWcvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz01ck9WNVp1OTU3cV82TGV2TVRFeSZncm91cD0
+vmess://YXV0bzo4MGU4MGRkZi05YTJhLTRmNDUtOWIzMS01M2MxODI2YTZmZDdAMTU2LjI0MC4xMjEuMjE0OjQ1Nzgw?remarks=%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF214&obfsParam=www.baidu.com&obfs=http&alterId=0
+vmess://YXV0bzo0YWI3ZmU1NS0zNjcxLTRhZjYtYWNmYS01MzJiMGQ2MjIzNGRAMTU0Ljg1LjYzLjE4Njo0NTkwNw?remarks=%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF186&obfsParam=www.baidu.com&obfs=http&alterId=0
+vmess://YXV0bzo4OGRkODg3MC01ZGRlLTQwM2EtYjIwNC0zNmUwNTY4Y2NhNjZAMTU2LjI0MC4xMjIuMjIxOjU4NjM5?remarks=%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF221&obfsParam=www.baidu.com&obfs=http&alterId=0
+vmess://YXV0bzpiMDY1OGI0ZS0xYTJiLTRhZTQtOWRiOS0zOWNjMTc2OTgzZThAMTU2LjI0MC4xMTYuMTk0OjMwMjA1?remarks=%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF194&obfsParam=www.baidu.com&obfs=http&alterId=0
+vmess://YXV0bzplZTUyMDUxNS1jMjE3LTQyMjctODJlYi03MjAxMjE0MTY4ZTNAMTU2LjI0MC4xMjIuODY6NDQxNDg?remarks=%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF86&obfsParam=www.baidu.com&obfs=http&alterId=0
 
 
-#极光MG
-vmess://YXV0bzpiNTYzMDMxZS0xMWMzLTQ4NzQtYjBiZC0xNWQ3NmE3YTE3NTdANDUuMTQ1LjYuNzE6NDQwNTY?remarks=%E7%BE%8E%E5%9B%BD%E7%BA%BF%E8%B7%AF71&obfsParam=www.baidu.com&obfs=http&alterId=0
-vmess://YXV0bzowMjY0N2E5Ni1iZDVhLTQ0NGEtYjhkMS02NjdiZGEwYTdlYjZAMTU0LjEyLjQzLjY1OjU0Mzgw?remarks=%E7%BE%8E%E5%9B%BD%E7%BA%BF%E8%B7%AF65&obfsParam=www.baidu.com&obfs=http&alterId=0
-vmess://YXV0bzoyN2I4Zjk0OC1jNGMyLTQ1N2MtYTc0MS1hYjhjMTI4YTYyOWZAMTU0LjEyLjQzLjg4OjU2Mjg1?remarks=%E7%BE%8E%E5%9B%BD%E7%BA%BF%E8%B7%AF88&obfsParam=www.baidu.com&obfs=http&alterId=0
-vmess://YXV0bzozM2RiZDQ4OC0wMTYzLTQ0NjQtOTMzZS1mZjVkMzY0ZmQ5ZGJANDUuMTQ1LjYuMTAwOjYzNjkz?remarks=%E7%BE%8E%E5%9B%BD%E7%BA%BF%E8%B7%AF100&obfsParam=www.baidu.com&obfs=http&alterId=0
-vmess://YXV0bzoyYWRlZjMyNS04NGZhLTQyMTUtOTU1Mi05N2NjMjIwNGFmZDFAMjAyLjUuMjguMjQ3OjM4Mzk1?remarks=%E7%BE%8E%E5%9B%BD%E7%BA%BF%E8%B7%AF247&obfsParam=www.baidu.com&obfs=http&alterId=0
-vmess://YXV0bzpjYTM0YzQyMy0wNDExLTQ5N2ItOTRjYy03OGFlYTczYWU5NmZAMjMuMTMzLjEuMzE6NDYzNjE?remarks=%E7%BE%8E%E5%9B%BD%E7%BA%BF%E8%B7%AF31&obfsParam=www.baidu.com&obfs=http&alterId=0
-vmess://YXV0bzphZDZjYjE0Ni1hMWQxLTQ5NjQtOWUwYi1iMmMxYWY3NWNhZDhAMTU0LjEyLjM1LjIzMDozMTUyMg?remarks=%E7%BE%8E%E5%9B%BD%E7%BA%BF%E8%B7%AF230&obfsParam=www.baidu.com&obfs=http&alterId=0
-vmess://YXV0bzpjYTFmOTVhYS1hYzMwLTRiNmUtOTExOC03ZDA2ODY5ZTAyMTZAMjMuMTMzLjEuMTE4OjY0MDg0?remarks=%E7%BE%8E%E5%9B%BD%E7%BA%BF%E8%B7%AF118&obfsParam=www.baidu.com&obfs=http&alterId=0
 
 #aaa
 vmess://YXV0bzpmMGViODg1NS1kM2E0LTRmYzQtOThiNi03MTE2ODFjNzU2YjhANDcuMjQzLjMxLjg6NTE2NTc?remarks=a%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF8&obfsParam=www.baidu.com&obfs=http&alterId=0
